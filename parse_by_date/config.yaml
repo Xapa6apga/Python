@@ -1,0 +1,9 @@
+API:
+  url: "https://robot-dreams-de-api.herokuapp.com/out_of_stock"
+  date: '{"date": "2021-09-01"}'
+  date_end: '{"date": "2021-09-05"}'
+
+AUTH:
+  url: "https://robot-dreams-de-api.herokuapp.com/auth"
+  headers: {"content-type": "application/json"}
+  cread: '{"username": "rd_dreams", "password": "djT6LasE"}'
